@@ -3,8 +3,7 @@
 由於這次需要標註的商品數量不少，為了讓大家省時省力，我們簡化了一些流程！請大家跟著下面的步驟來完成
 
 ### 資料
-檔案放在Google雲端裡面(後續會改放在Hugging Face)
-https://drive.google.com/drive/folders/1sOHFLJzTK5UAUSCQ2zUV2i9VFJaMr0N2?usp=sharing
+[stanley-Lee/c2c-b2c-ecom-matching](https://huggingface.co/datasets/stanley-Lee/c2c-b2c-ecom-matching)
 資料夾 `b2c_map` 和 `c2c_map` 中的檔案為初始數據，請大家直接使用來進行標註即可，並將標註結果填入`label欄位`
 
 ## 標註方式
