@@ -4,7 +4,8 @@
 
 ### 資料
 [stanley-Lee/c2c-b2c-ecom-matching](https://huggingface.co/datasets/stanley-Lee/c2c-b2c-ecom-matching)
-資料夾 `b2c_map` 和 `c2c_map` 中的檔案為初始數據，請大家直接使用來進行標註即可，並將標註結果填入`label欄位`
+- `X_組_B2C.csv`為各組B2C需要標註的檔案，`X_組_C2C.csv`為各組C2C需要標註的檔案。
+- 檔案為初始數據，請大家直接使用來進行標註即可，並將標註結果填入`label欄位`
 
 ## 標註方式
 每組只要依據提供的檔案，利用**自己組內的商品匹配模型**進行標註即可，並將標註的結果放入label欄位。過程中請記得：
